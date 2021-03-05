@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background:#F7F038; /*color de fondo*/
+}
+h1{ color: #3681F5; /*color letra*/
+	font-size:50px; /*tamaño de letra*/
+	text-align:center;/*alineacion de letra*/
+	text-decoration:underline;/*subrayado de texto*/
+	width:100%; /*ancho de pantalla que utilizara*/
+	padding: 0px 0px;/*espacio*/
+}
